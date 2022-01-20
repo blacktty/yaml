@@ -1,4 +1,4 @@
-module sigs.k8s.io/yaml3
+module github.com/blacktty/yaml
 
 go 1.17
 
