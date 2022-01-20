@@ -1,4 +1,4 @@
-module sigs.k8s.io/yaml
+module sigs.k8s.io/yaml3
 
 go 1.17
 
